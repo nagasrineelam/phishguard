@@ -329,12 +329,4 @@ This project is provided as a software project for demonstration and development
 
 ---
 
-If you want to continue improving the project, the most valuable next steps are:
-- complete backend deployment setup
-- configure Supabase tables and policies
-- validate the ML pipeline on a production-grade dataset
-- add CI checks for frontend and backend quality
-- add automated smoke tests around prediction and auth flows
-
-
 
